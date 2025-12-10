@@ -4,7 +4,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NmN1ODcyZnVqM284anVoOTB4cWZhc2U0MWQ2cXMxbjR2emtqYzluZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HLB0nLA36GCCo6JuB5/giphy.gif" width="200"/>
 </div>
-### :woman_technologist: About Me :
+:man_technologist: About Me :
 I am a Low-lewel Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Azerbaycan.
 <!--
 **MrMystake/MrMystake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
