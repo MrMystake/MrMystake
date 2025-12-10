@@ -1,8 +1,4 @@
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm8xZHZ4NzhpaWJiZ2I3aHJvcDN3Y3g4aDExaHByZDZ1azBqdmdsaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LD2ZJ0pdNmCxFikNQ5/giphy.gif" width="600" height="300"/>
-</div>
-
 ### :man_technologist: About Me :
 I am a Low-lewel Developer from Azerbaycan.<br>
 - 🌱 I’m currently learning C and develop my programing language.<br>
