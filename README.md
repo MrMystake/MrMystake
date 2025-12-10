@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3FtNnVyZTUyM21tZ3BqcTZjcjh5eTBtc2t1eDVlZWxvd2cxcjk4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GwtfUx2P2HnvByDZdg/giphy.gif" width="100"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3FtNnVyZTUyM21tZ3BqcTZjcjh5eTBtc2t1eDVlZWxvd2cxcjk4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GwtfUx2P2HnvByDZdg/giphy.gif" width="200"/>
 </div>
 <!--
 **MrMystake/MrMystake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
