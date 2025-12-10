@@ -1,10 +1,11 @@
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmFyMGc1bmltcGM5dXQxdmJxZ3lwc2g2ZGJ0aXpxZTBlYjQwMzRudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hun4DFmfnDId3lid5b/giphy.gif" width="600" height="300"/>
 </div>
-## Hi there 👋
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NmN1ODcyZnVqM284anVoOTB4cWZhc2U0MWQ2cXMxbjR2emtqYzluZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HLB0nLA36GCCo6JuB5/giphy.gif" width="200"/>
 </div>
+### :woman_technologist: About Me :
+I am a Low-lewel Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Azerbaycan.
 <!--
 **MrMystake/MrMystake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
