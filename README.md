@@ -9,6 +9,7 @@ I am a Low-lewel Developer from Azerbaycan.<br>
 - 🌱 I’m currently learning C and develop my programing language.<br>
 
 ### :hammer_and_wrench: Languages and Tools :
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
 <!--
 **MrMystake/MrMystake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
