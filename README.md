@@ -7,7 +7,7 @@
 :man_technologist: About Me :<br>
 I am a Low-lewel Developer from Azerbaycan.<br>
 - 🌱 I’m currently learning C and develop my programing language.<br>
-- 📫 How to reach me: (ruslanabdullaev648@gmail.com).<br>
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](ruslanabdullaev@gmail.com).<br>
 - 
 <!--
 **MrMystake/MrMystake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
