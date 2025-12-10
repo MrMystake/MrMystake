@@ -6,6 +6,8 @@
 </div>
 ### :man_technologist: About Me :
 I am a Low-lewel Developer from Azerbaycan.
+- 🌱 I’m currently learning C and develop my programing language
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 <!--
 **MrMystake/MrMystake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
