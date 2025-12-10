@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmdqbDNyY3YxcjZzOXl4ZmdianpkNW82Yzc2NnoyMGxiY3RwOXM4OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JkyZC0osJWj0hMgx3I/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm8xZHZ4NzhpaWJiZ2I3aHJvcDN3Y3g4aDExaHByZDZ1azBqdmdsaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="150"/>
 </div>
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmFyMGc1bmltcGM5dXQxdmJxZ3lwc2g2ZGJ0aXpxZTBlYjQwMzRudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hun4DFmfnDId3lid5b/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm8xZHZ4NzhpaWJiZ2I3aHJvcDN3Y3g4aDExaHByZDZ1azBqdmdsaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif" width="600" height="300"/>
 </div>
 :man_technologist: About Me :<br>
 I am a Low-lewel Developer from Azerbaycan.<br>
